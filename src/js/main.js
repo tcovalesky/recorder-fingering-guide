@@ -1,16 +1,6 @@
-import { Stave, Formatter } from 'vexflow';
-import initializeRender from './helpers/render';
-import notes from './helpers/notes';
+import drawAndFormatNotes from './helpers/drawer';
 
-const width = notes.length * 50;
-
-const context = initializeRender(width);
-
-const stave = new Stave(0, 20, width);
-stave.addClef('treble');
-stave.setContext(context).draw();
-
-Formatter.FormatAndDraw(context, stave, notes);
+drawAndFormatNotes();
 
 const noteElements = document.querySelectorAll('.vf-stavenote');
 const imageElement = document.getElementById('fingering-image');
