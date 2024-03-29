@@ -6,7 +6,7 @@
     >
       <!-- Corpo da flauta -->
       <rect
-        x="50"
+        x="75"
         y="50"
         width="50"
         height="400"
@@ -16,7 +16,7 @@
       />
       <!-- Furos da flauta -->
       <circle
-        cx="25"
+        cx="50"
         cy="100"
         r="10"
         stroke="#000000"
@@ -24,7 +24,7 @@
         fill="transparent"
       />
       <circle
-        cx="75"
+        cx="100"
         cy="100"
         r="10"
         stroke="#000000"
@@ -32,7 +32,7 @@
         fill="transparent"
       />
       <circle
-        cx="75"
+        cx="100"
         cy="150"
         r="10"
         stroke="#000000"
@@ -40,7 +40,7 @@
         fill="transparent"
       />
       <circle
-        cx="75"
+        cx="100"
         cy="200"
         r="10"
         stroke="#000000"
@@ -48,7 +48,7 @@
         fill="transparent"
       />
       <circle
-        cx="75"
+        cx="100"
         cy="250"
         r="10"
         stroke="#000000"
@@ -56,7 +56,7 @@
         fill="transparent"
       />
       <circle
-        cx="75"
+        cx="100"
         cy="300"
         r="10"
         stroke="#000000"
@@ -64,7 +64,7 @@
         fill="transparent"
       />
       <circle
-        cx="68"
+        cx="93"
         cy="350"
         r="7"
         stroke="#000000"
@@ -72,7 +72,7 @@
         fill="transparent"
       />
       <circle
-        cx="85"
+        cx="110"
         cy="353"
         r="4"
         stroke="#000000"
@@ -80,7 +80,7 @@
         fill="transparent"
       />
       <circle
-        cx="68"
+        cx="93"
         cy="400"
         r="7"
         stroke="#000000"
@@ -88,7 +88,7 @@
         fill="transparent"
       />
       <circle
-        cx="85"
+        cx="110"
         cy="403"
         r="4"
         stroke="#000000"
